@@ -1,0 +1,38 @@
+.header {
+    width:100%;
+}
+.dp{
+    position:absolute;
+    left: 30px;
+    top: 100px;
+    z-index: 1;
+    border-radius: 50%;
+    width: 25%;
+    border: solid white 5px;
+}
+.text{
+    padding-left: 10px;
+}
+.username{
+    color: rgb(77, 77, 77);
+}
+.location{
+    width: 5%;
+}
+a{
+    display: inline;
+    text-decoration: none;
+    color: rgb(77, 77, 77);
+}
+.website{
+    color:rgb(22, 194, 194);
+}
+button{
+    float: right;
+    border: solid rgb(37, 37, 37) 15px;
+    border-radius: 30px;
+    color: white;
+    background-color: rgb(37, 37, 37);
+    padding: 2px;
+    margin: 0%;
+}

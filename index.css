@@ -1,0 +1,22 @@
+/* body{
+    background-color: aqua;
+} */
+p{
+    text-align: center;
+}
+.blue{
+    color: blue;
+}
+.green{
+    color: green;
+}
+table, th, td {
+  border: 2px solid green;
+  border-collapse: collapse;
+}
+th, td{
+    padding: 15px;
+}
+table{
+    width: 50%;
+}
